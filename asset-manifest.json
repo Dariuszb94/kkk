@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.684c1bea.chunk.css",
+    "main.js": "./static/js/main.d33d5762.chunk.js",
+    "main.js.map": "./static/js/main.d33d5762.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.61903be0.js",
+    "runtime-main.js.map": "./static/js/runtime-main.61903be0.js.map",
+    "static/css/2.3774684b.chunk.css": "./static/css/2.3774684b.chunk.css",
+    "static/js/2.a4af53f5.chunk.js": "./static/js/2.a4af53f5.chunk.js",
+    "static/js/2.a4af53f5.chunk.js.map": "./static/js/2.a4af53f5.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a8ac71a4bf5af454c5698b0f2a90ac8f.js": "./precache-manifest.a8ac71a4bf5af454c5698b0f2a90ac8f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.3774684b.chunk.css.map": "./static/css/2.3774684b.chunk.css.map",
+    "static/css/main.684c1bea.chunk.css.map": "./static/css/main.684c1bea.chunk.css.map",
+    "static/js/2.a4af53f5.chunk.js.LICENSE.txt": "./static/js/2.a4af53f5.chunk.js.LICENSE.txt",
+    "static/media/1-photo.png": "./static/media/1-photo.5adacb3c.png",
+    "static/media/2-photo.png": "./static/media/2-photo.f9d5152c.png",
+    "static/media/3-photo.png": "./static/media/3-photo.d36b7632.png",
+    "static/media/4-photo.png": "./static/media/4-photo.40465e9d.png",
+    "static/media/envelope.svg": "./static/media/envelope.e32a1fc6.svg",
+    "static/media/group-12-copy.svg": "./static/media/group-12-copy.512d0df6.svg",
+    "static/media/kolor_high.png": "./static/media/kolor_high.31e446f9.png",
+    "static/media/kolor_low.png": "./static/media/kolor_low.6d3cde4f.png",
+    "static/media/kolor_medium.png": "./static/media/kolor_medium.023e7fa5.png",
+    "static/media/kolor_very_high.png": "./static/media/kolor_very_high.f3498df3.png",
+    "static/media/kolor_very_low.png": "./static/media/kolor_very_low.5945391d.png",
+    "static/media/kropki-baner-kompresja.svg": "./static/media/kropki-baner-kompresja.0d947d1d.svg",
+    "static/media/kropki-dol-kompresja.svg": "./static/media/kropki-dol-kompresja.353f31d6.svg",
+    "static/media/map-marker.svg": "./static/media/map-marker.1a3796ba.svg",
+    "static/media/phone.svg": "./static/media/phone.f86ffa07.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61903be0.js",
+    "static/css/2.3774684b.chunk.css",
+    "static/js/2.a4af53f5.chunk.js",
+    "static/css/main.684c1bea.chunk.css",
+    "static/js/main.d33d5762.chunk.js"
+  ]
+}
