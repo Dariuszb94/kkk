@@ -120,14 +120,6 @@ class Map extends Component {
           pomiar: 20,
           kolor: "kolor",
         },
-        {
-          key: "Wrocław2",
-          value: "Wrocław, Prusa",
-          positionDlugosc: 51.119193,
-          positionSzerokosc: 17.04232,
-          pomiar: 20,
-          kolor: "kolor",
-        },
       ],
       actualCoord: [
         {
@@ -426,7 +418,7 @@ class Map extends Component {
     });
   }
   secondFetch() {
-    if (this.state.data[1].kolor == "kolor") {
+    if (this.state.data[0].kolor == "kolor") {
       console.log("dwa");
       //const proxyurl = "https://cors-anywhere.herokuapp.com/";
       const url = "https://srodowiskowokolicy.pl/wspolne_halas_json.php"; // site that doesn’t send Access-Control-*

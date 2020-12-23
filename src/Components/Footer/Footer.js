@@ -1,18 +1,14 @@
-import React, { Component } from "react";
-import {FooterContainer,Contact} from "./FooterStyle";
+import React from "react";
 import ContactDetails from "./FooterComponents/ContactDetails";
+import "./FooterStyle.scss";
 
+const MainProducts = () => {
+  return (
+    <section className="footer">
+      <div className="footer__header">Kontakt</div>
+      <ContactDetails />
+    </section>
+  );
+};
 
-class MainProducts extends Component {
-
-  render() {
-    return (
-      <FooterContainer>
-        <Contact>Kontakt</Contact>
-        <ContactDetails/>
-      </FooterContainer>
-      
-    );
-  }
-}
 export default MainProducts;
