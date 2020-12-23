@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="215" viewBox="0 0 186 215">
+    <defs>
+        <filter id="4xdokrb2ya" width="129.6%" height="125%" x="-7.4%" y="-12.5%" filterUnits="objectBoundingBox">
+            <feOffset dx="12" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="6"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.5 0"/>
+        </filter>
+        <path id="mmslk9j1yb" d="M139.333 24.609c-31.664-31.664-83.002-31.664-114.666 0-31.665 31.664-31.665 83.002 0 114.667l50.357 50.453c1.795 1.809 4.237 2.826 6.785 2.826s4.99-1.017 6.784-2.826l50.74-50.931c31.532-31.533 31.532-82.657 0-114.19z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g>
+                <g transform="translate(-649 -120) translate(649 131)">
+                    <use fill="#000" filter="url(#4xdokrb2ya)" xlink:href="#mmslk9j1yb"/>
+                    <use fill="#FAA535" xlink:href="#mmslk9j1yb"/>
+                </g>
+                <path fill="#FAA535" d="M125.669 125.133L82 168.993l-43.669-43.86c-24.09-24.112-24.078-63.186.027-87.284 24.105-24.098 63.18-24.098 87.284 0 24.105 24.098 24.117 63.172.027 87.284z" transform="translate(-649 -120) translate(649 131)"/>
+                <path fill="#FFF" d="M53.333 52.607c-16.06 16.11-16.06 42.178 0 58.289 11.718 11.737 29.334 15.301 44.692 9.04 15.36-6.26 25.464-21.122 25.637-37.707.087-10.942-4.255-21.454-12.04-29.145C103.973 45.26 93.52 40.81 82.577 40.72c-10.942-.09-21.467 4.189-29.244 11.887z" transform="translate(-649 -120) translate(649 131)"/>
+                <path fill="#FAA535" d="M98.149 97.327c-7.468 7.582-19.257 8.819-28.136 2.952-8.88-5.867-12.365-17.197-8.319-27.04 4.046-9.843 14.492-15.447 24.93-13.374 10.439 2.074 17.95 11.244 17.927 21.886-.139 5.898-2.613 11.5-6.88 15.576h.478z" transform="translate(-649 -120) translate(649 131)"/>
+            </g>
+        </g>
+    </g>
+</svg>
