@@ -1,0 +1,175 @@
+@import url("https://unpkg.com/leaflet@1.0.1/dist/leaflet.css");
+.leaflet {
+  height: 100vh;
+  width: 100%;
+}
+@media (min-width: 1000px) {
+.chartjs-render-monitor{
+  max-height: calc(100vh - 200px);
+}
+}
+.leaflet-container {
+  height: 100vh;
+}
+.react-search-box-dropdown-list-item {
+  color: black;
+}
+.leaflet-control-container * {
+  z-index: 400;
+}
+
+.leaflet-div-icon {
+  cursor: pointer;
+  background: transparent;
+  border: none;
+}
+.sc-fznyYp,
+.sc-fzomME {
+  border: 1px solid white !important;
+  font-family: "Exo 2", "Calibri", sans-serif;
+}
+.react-search-box-dropdown-list-item {
+  font-family: "Exo 2", "Calibri", sans-serif;
+}
+.leaflet-tooltip-pane {
+  font-family: "Exo 2", "Calibri", sans-serif;
+}
+.niebieski {
+  color: #3f51b5;
+}
+.leaflet-control-zoom:nth-child(1) {
+  display: none;
+}
+.leaflet-left {
+  right: 24px;
+  bottom: 0;
+}
+.leaflet-control {
+  float: right;
+}
+.bm-burger-button {
+  top: 24px !important;
+}
+.zNoeh {
+  margin: 0 0 0 0 !important;
+}
+input{
+  font-family: "Exo 2", "Calibri", sans-serif;
+  border:none !important;
+height: 48px !important;
+}
+.leaflet-control-scale {
+  float: left;
+}
+.react-resizable {
+  max-width: 100%;
+}
+.bm-item-list a{
+  text-align:center;
+  line-height:2.1;
+
+}
+.react-resizable-handle {
+  bottom: -10px;
+  right: -10px;
+}
+
+.lagRadar {
+  position: fixed;
+  bottom: 0.5rem;
+  right: 0.5rem;
+}
+.leaflet-top .leaflet-control {
+  position: absolute;
+  bottom: 91px;
+  right: 0;
+}
+.leaflet-control-scale {
+  float: right;
+}
+.leaflet-bottom .leaflet-control-scale {
+  margin-bottom: 32px;
+}
+.leaflet-control-scale {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+.leaflet-control-scale * {
+  text-align: right;
+}
+.bm-overlay{
+  background-color: #3f51b5 !important;
+}
+
+
+  .hideMobile{
+    display:block;
+  }
+  .react-datepicker__header{
+    background-color: white !important;
+  }
+
+.react-datepicker__day-name {
+  color:  #3F51B5 !important;
+  font-family: "Exo 2", "Calibri", sans-serif !important;
+
+}
+.react-datepicker__day, .react-datepicker__time-name {
+  color: #1F2961 !important;
+  font-style: normal;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 24px !important;
+  
+  text-align: center;
+font-family: "Exo 2", "Calibri", sans-serif;
+  
+
+}
+.react-datepicker__navigation {
+
+  top: 12px !important;
+}
+.react-datepicker__day--keyboard-selected {
+  border-radius: 0.3rem;
+  background-color: #3F51B5 !important;
+color:white !important;
+font-weight: 500 !important;
+font-size: 14px !important;
+line-height: 24px !important;
+
+text-align: center;
+font-family: "Exo 2", "Calibri", sans-serif;
+
+color: #FFFFFF;
+
+
+}
+.react-datepicker__current-month {
+  font-family: "Exo 2", "Calibri", sans-serif;
+  color: #1F2961 !important;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  
+  text-align: center;
+  
+  color: #1F2961;
+}
+
+.react-datepicker__header {
+
+  border-bottom: 1px solid #C9CEE6 !important;
+
+}
+@media (max-width: 800px) {
+
+.hideMobile{
+  display:none;
+}
+  .leaflet-control-zoom {
+    display: none;
+  }
+}
