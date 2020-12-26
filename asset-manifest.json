@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/kkk/static/css/main.407e6aea.chunk.css",
-    "main.js": "/kkk/static/js/main.e4cce08b.chunk.js",
-    "main.js.map": "/kkk/static/js/main.e4cce08b.chunk.js.map",
+    "main.css": "/kkk/static/css/main.b4e65b6c.chunk.css",
+    "main.js": "/kkk/static/js/main.e6eb2a2d.chunk.js",
+    "main.js.map": "/kkk/static/js/main.e6eb2a2d.chunk.js.map",
     "runtime-main.js": "/kkk/static/js/runtime-main.732bc162.js",
     "runtime-main.js.map": "/kkk/static/js/runtime-main.732bc162.js.map",
     "static/css/2.e6ac38db.chunk.css": "/kkk/static/css/2.e6ac38db.chunk.css",
-    "static/js/2.cc28f0e3.chunk.js": "/kkk/static/js/2.cc28f0e3.chunk.js",
-    "static/js/2.cc28f0e3.chunk.js.map": "/kkk/static/js/2.cc28f0e3.chunk.js.map",
+    "static/js/2.9f69301b.chunk.js": "/kkk/static/js/2.9f69301b.chunk.js",
+    "static/js/2.9f69301b.chunk.js.map": "/kkk/static/js/2.9f69301b.chunk.js.map",
     "index.html": "/kkk/index.html",
-    "precache-manifest.82b88d7882494a68e420ed47085b4ade.js": "/kkk/precache-manifest.82b88d7882494a68e420ed47085b4ade.js",
+    "precache-manifest.7108fa9ab774356f55637c70338e7b8a.js": "/kkk/precache-manifest.7108fa9ab774356f55637c70338e7b8a.js",
     "service-worker.js": "/kkk/service-worker.js",
     "static/css/2.e6ac38db.chunk.css.map": "/kkk/static/css/2.e6ac38db.chunk.css.map",
-    "static/css/main.407e6aea.chunk.css.map": "/kkk/static/css/main.407e6aea.chunk.css.map",
-    "static/js/2.cc28f0e3.chunk.js.LICENSE.txt": "/kkk/static/js/2.cc28f0e3.chunk.js.LICENSE.txt",
+    "static/css/main.b4e65b6c.chunk.css.map": "/kkk/static/css/main.b4e65b6c.chunk.css.map",
+    "static/js/2.9f69301b.chunk.js.LICENSE.txt": "/kkk/static/js/2.9f69301b.chunk.js.LICENSE.txt",
     "static/media/1-photo.png": "/kkk/static/media/1-photo.5adacb3c.png",
     "static/media/2-photo.png": "/kkk/static/media/2-photo.f9d5152c.png",
     "static/media/3-photo.png": "/kkk/static/media/3-photo.d36b7632.png",
@@ -36,13 +36,13 @@
     "static/media/phone.svg": "/kkk/static/media/phone.f86ffa07.svg",
     "static/media/skala_kol_mobile.svg": "/kkk/static/media/skala_kol_mobile.4cb4f36a.svg",
     "static/media/times.svg": "/kkk/static/media/times.6c5058da.svg",
-    "static/media/ONasStyle.scss": "/kkk/static/media/tlo-4.83a3dfe3.svg"
+    "static/media/KontaktStyle.scss": "/kkk/static/media/tlo-4.83a3dfe3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.732bc162.js",
     "static/css/2.e6ac38db.chunk.css",
-    "static/js/2.cc28f0e3.chunk.js",
-    "static/css/main.407e6aea.chunk.css",
-    "static/js/main.e4cce08b.chunk.js"
+    "static/js/2.9f69301b.chunk.js",
+    "static/css/main.b4e65b6c.chunk.css",
+    "static/js/main.e6eb2a2d.chunk.js"
   ]
 }
